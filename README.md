@@ -105,7 +105,7 @@ By establishing the Userbot, you are deemed to have accepted these responsibilit
 
 
 
-Project created by JIHAD to make it public
+Project created by KITHU to make it public
 
 Â© Reserved
 
