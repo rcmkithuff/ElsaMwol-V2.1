@@ -99,13 +99,13 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, K-I-T-H-U do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+Project created by KITHU to make it public
 
 Â© Reserved
 
